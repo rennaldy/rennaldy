@@ -3,7 +3,7 @@
 
 I'm a software engineer at YSI in Jakarta, Indonesia
 
-- 🔭 I’m currently working on [oficioo](https://github.com/oficioo) and [zeroplus.dev](https://github.com/zeroplus-dev)
+- 🔭 I’m currently working on [zeroplus.dev](https://github.com/zeroplus-dev)
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about [Flutter](https://flutter.dev) | [Dart](https://dart.dev) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | [.net Core](https://docs.microsoft.com/en-us/dotnet/core/)
 - 📫 How to reach me: [ZeroPlus.dev](https://zeroplus.dev) | [Github](https://github.com/0plus) | [Twitter](https://twitter.com/renprtn) | [Facebook](https://facebook.com/renprtn) | [Linkedin](https://www.linkedin.com/in/rennaldyprotono)
